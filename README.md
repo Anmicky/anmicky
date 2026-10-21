@@ -6,12 +6,16 @@ My research experience includes visual working memory, controllable visual stimu
 
 [Academic homepage](https://anmicky.github.io/) · [中文 / English](https://anmicky.github.io/) · [Email](mailto:12310901@mail.sustech.edu.cn)
 
-## Selected work
+## Publication
 
-| Work | What you can explore | Links |
-| --- | --- | --- |
-| **Visual working memory** · CogSci 2025 | *Dimensions of Vulnerability in Visual Working Memory: An AI-Driven Approach to Perceptual Comparison*. Co-first-author paper on memory distortions following perceptual comparison. | [Paper](https://anmicky.github.io/paper/CogSci2025_Dimensions_of_Vulnerability_in_VWM.pdf) · [Publication repository](https://github.com/Anmicky/Dimensions-of-Vulnerability-in-Visual-Working-Memory) |
-| **Emo-FilM reading map** · Interactive note | Explore all 50 retained measurement items, their scale endpoints, and how subsequent studies selected data and interpreted results. This is a literature visualization, not a new empirical finding. | [Open the interactive map](https://anmicky.github.io/emofilm/) · [Item atlas](https://anmicky.github.io/emofilm/reference.html#atlas) |
+**Dimensions of Vulnerability in Visual Working Memory: An AI-Driven Approach to Perceptual Comparison**  
+CogSci 2025 · Co-first author
+
+[Paper](https://anmicky.github.io/paper/CogSci2025_Dimensions_of_Vulnerability_in_VWM.pdf) · [Publication repository](https://github.com/Anmicky/Dimensions-of-Vulnerability-in-Visual-Working-Memory)
+
+## Reading notes
+
+[**Emo-FilM: an interactive reading note**](https://anmicky.github.io/emofilm/) — a visual guide to the dataset's 50 retained measurement items, scale endpoints, and subsequent studies. Prepared for a group-meeting discussion.
 
 ## Current interests
 
